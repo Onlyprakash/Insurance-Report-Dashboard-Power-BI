@@ -49,6 +49,7 @@ This dashboard solves that problem by converting raw insurance data into meaning
 - DAX	Measures & Calculations
 - Excel / CSV	Dataset 
 - SQL (Optional)
+- Python 
 - TextBlob
 
 ## 📊 Key KPIs
