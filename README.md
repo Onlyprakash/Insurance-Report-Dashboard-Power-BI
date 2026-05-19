@@ -9,18 +9,20 @@ The Insurance Report Dashboard is an interactive Power BI project designed to an
 ## 📈 Customer Sentiment Dashboard Preview
 <img width="1000" height="500" alt="Customer Sentiment Analysis Srceenshot" src="https://github.com/user-attachments/assets/bc22f9e5-cd82-4cc9-a56f-0abd46f0e462" />
 
-## Customer Feedback Sentiment Analysis
+# 🤝 Customer Feedback Sentiment Analysis
 - Customer feedback data was analyzed using Python and the TextBlob library to identify customer satisfaction levels based on textual reviews and feedback.
 - Sentiment categories and sentiment scores were generated and integrated into the Power BI dashboard for better customer experience analysis.
 
-| Sentiment Category| Score |
-|-------------------|-------|
-| Excellent         |  0.8  |
-| Good              |  0.6  |
-| Needs Improvement | -0.5  |
+## 📊 Sentiment Logic Table
 
-## Workflow
-- Customer Feedback → Python Processing → Sentiment Classification → Power BI Visualization
+|😊 Sentiment Category |📈 Score |
+|----------------------|----------|
+| Excellent            |  0.8     |
+| Good                 |  0.6     |
+| Needs Improvement    | -0.5     |
+
+## 🏷️Workflow
+#  👉 Customer Feedback → Python Processing → Sentiment Classification → Power BI Visualization
 
 ## 🏢 Business Problem
 Insurance companies generate large volumes of policy and claim data daily. Without proper visualization and reporting systems, it becomes difficult to track premium performance, customer insights, claim trends, and policy effectiveness.
