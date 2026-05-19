@@ -22,7 +22,7 @@ The Insurance Report Dashboard is an interactive Power BI project designed to an
 | Needs Improvement    | -0.5     |
 
 ## 🏷️Workflow
-#  👉 Customer Feedback → Python Processing → Sentiment Classification → Power BI Visualization
+ 👉 Customer Feedback → Python Processing → Sentiment Classification → Power BI Visualization
 
 ## 🏢 Business Problem
 Insurance companies generate large volumes of policy and claim data daily. Without proper visualization and reporting systems, it becomes difficult to track premium performance, customer insights, claim trends, and policy effectiveness.
